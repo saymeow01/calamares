@@ -21,7 +21,7 @@ backup=('usr/share/calamares/modules/bootloader.conf'
         'usr/share/calamares/modules/unpackfs.conf')
 
 source+=("https://github.com/calamares/calamares/releases/download/v${pkgver}/calamares-${pkgver}.tar.gz"
-         git+https://github.com/saymeow01/calamares#branch=dev)
+         git+https://github.com/saymeow01/calamares#branch=main)
 
 sha256sums=('e1402d7693659b85c5e553481a7252d91350c3f33ffea413488d7712d3281e03'
             'SKIP')

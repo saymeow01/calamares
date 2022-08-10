@@ -1,2 +1,2 @@
 # Calamares
-Graphic Installer for Arch Linux
+ Source files of graphic Installer for Arch Linux
